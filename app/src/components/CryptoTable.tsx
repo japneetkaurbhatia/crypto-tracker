@@ -41,7 +41,7 @@ const CryptoTable: React.FC<CryptoTableProps> = ({ data }) => {
         <thead>
           <TableRow>
           <TableHeader>S.No</TableHeader>
-            <TableHeader>Price (₹)</TableHeader>
+            <TableHeader>Price ($)</TableHeader>
             <TableHeader>Timestamp</TableHeader>
           </TableRow>
         </thead>
